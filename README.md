@@ -1,0 +1,5 @@
+# Modelos de ML
+
+Estos modelos fueron diseñados para explorar técnicas de aprendizaje automático y análisis de datos en distintos contextos, como salud, transporte y finanzas. Utilicé herramientas como NumPy y Pandas para el procesamiento y manipulación eficiente de datos, complementadas con Seaborn para la exploración visual y análisis de patrones. Además, empleé Google Colab para la implementación y visualización de resultados.
+
+Se abordaron diferentes enfoques de aprendizaje supervisado, incluyendo regresión lineal, regresión logística, árboles de decisión y SVM, así como aprendizaje no supervisado mediante clustering con KMeans. Para llevar a cabo estas técnicas, se utilizó la biblioteca scikit-learn (sklearn), la cual facilitó la implementación y optimización de los modelos, permitiendo generar predicciones precisas e identificar patrones ocultos en los datos.
